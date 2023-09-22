@@ -2,4 +2,4 @@
 
 You should pass!!!
 
-Jenkins test code push
+Jenkins test code push pass
